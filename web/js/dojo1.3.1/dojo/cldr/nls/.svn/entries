@@ -1,0 +1,349 @@
+10
+
+dir
+307
+http://172.25.4.185:1588/svn/bangna/bangnadental/web/js/dojo1.3.1/dojo/cldr/nls
+http://172.25.4.185:1588/svn/bangna
+
+
+
+2011-06-27T08:12:18.484375Z
+20
+ton
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+538f8250-7416-fc40-9e44-127fca25052c
+
+ar
+dir
+
+ca
+dir
+
+cs
+dir
+
+currency.js
+file
+
+
+
+
+2011-09-17T01:58:15.000000Z
+1db263ba9b0e1623c288a3654dfb5867
+2011-06-27T08:12:18.484375Z
+20
+ton
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+177
+
+da
+dir
+
+de
+dir
+
+de-de
+dir
+
+el
+dir
+
+en
+dir
+
+en-au
+dir
+
+en-ca
+dir
+
+en-gb
+dir
+
+en-us
+dir
+
+es
+dir
+
+es-es
+dir
+
+fi
+dir
+
+fr
+dir
+
+gregorian.js
+file
+
+
+
+
+2011-09-17T01:58:15.000000Z
+eeead9c005c200bf1bb0436f8d6240c6
+2011-06-27T08:12:18.484375Z
+20
+ton
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2850
+
+he
+dir
+
+hebrew.js
+file
+
+
+
+
+2011-09-17T01:58:15.000000Z
+20053f96d3831f8ca46e46f43b25cc87
+2011-06-27T08:12:18.484375Z
+20
+ton
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4660
+
+hu
+dir
+
+islamic-civil.js
+file
+
+
+
+
+2011-09-17T01:58:15.000000Z
+61893965a82500b6896ccfc8a251e523
+2011-06-27T08:12:18.484375Z
+20
+ton
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4842
+
+islamic.js
+file
+
+
+
+
+2011-09-17T01:58:15.000000Z
+52f7349e1c03231010c78ebf9a2206dd
+2011-06-27T08:12:18.484375Z
+20
+ton
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4789
+
+it
+dir
+
+it-it
+dir
+
+ja
+dir
+
+ja-jp
+dir
+
+ko
+dir
+
+ko-kr
+dir
+
+nb
+dir
+
+nl
+dir
+
+number.js
+file
+
+
+
+
+2011-09-17T01:58:15.000000Z
+6732b4cbc73e003721fb135e9fcdc800
+2011-06-27T08:12:18.484375Z
+20
+ton
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+649
+
+pl
+dir
+
+pt
+dir
+
+pt-br
+dir
+
+pt-pt
+dir
+
+ru
+dir
+
+sk
+dir
+
+sl
+dir
+
+sv
+dir
+
+th
+dir
+
+tr
+dir
+
+zh
+dir
+
+zh-cn
+dir
+
+zh-tw
+dir
+

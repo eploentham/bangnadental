@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/storage
+END
+storage_dialog.swf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/storage/storage_dialog.swf
+END
+Storage.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/storage/Storage.as
+END
+Provider.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/storage/Provider.js
+END
+manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/storage/manager.js
+END
+buildFlashStorage.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/storage/buildFlashStorage.sh
+END
+_common.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/storage/_common.js
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/storage/README
+END
+Storage.swf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/storage/Storage.swf
+END
+GearsStorageProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/storage/GearsStorageProvider.js
+END
+AirFileStorageProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/storage/AirFileStorageProvider.js
+END
+AirDBStorageProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/storage/AirDBStorageProvider.js
+END
+storage_dialog.fla
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/storage/storage_dialog.fla
+END
+FlashStorageProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/storage/FlashStorageProvider.js
+END
+AirEncryptedLocalStorageProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/storage/AirEncryptedLocalStorageProvider.js
+END
+WhatWGStorageProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/storage/WhatWGStorageProvider.js
+END

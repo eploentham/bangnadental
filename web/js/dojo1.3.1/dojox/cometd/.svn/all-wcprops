@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/cometd
+END
+timestamp.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/cometd/timestamp.js
+END
+callbackPollTransport.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/cometd/callbackPollTransport.js
+END
+RestChannels.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/cometd/RestChannels.js
+END
+_base.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/cometd/_base.js
+END
+longPollTransport.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/cometd/longPollTransport.js
+END
+longPollTransportFormEncoded.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/cometd/longPollTransportFormEncoded.js
+END
+ack.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/cometd/ack.js
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/cometd/README
+END
+HttpChannels.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/cometd/HttpChannels.js
+END
+timesync.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/cometd/timesync.js
+END
+longPollTransportJsonEncoded.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/cometd/longPollTransportJsonEncoded.js
+END

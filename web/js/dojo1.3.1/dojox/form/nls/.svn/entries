@@ -1,0 +1,143 @@
+10
+
+dir
+307
+http://172.25.4.185:1588/svn/bangna/bangnadental/web/js/dojo1.3.1/dojox/form/nls
+http://172.25.4.185:1588/svn/bangna
+
+
+
+2011-06-27T08:12:18.484375Z
+20
+ton
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+538f8250-7416-fc40-9e44-127fca25052c
+
+PasswordValidator.js
+file
+
+
+
+
+2011-09-17T01:58:14.000000Z
+43c34266673d0ceb2eed7547109fe791
+2011-06-27T08:12:18.484375Z
+20
+ton
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+87
+
+ar
+dir
+
+ca
+dir
+
+cs
+dir
+
+da
+dir
+
+de
+dir
+
+el
+dir
+
+es
+dir
+
+fi
+dir
+
+fr
+dir
+
+he
+dir
+
+hu
+dir
+
+it
+dir
+
+ja
+dir
+
+ko
+dir
+
+nb
+dir
+
+nl
+dir
+
+pl
+dir
+
+pt
+dir
+
+pt-pt
+dir
+
+ru
+dir
+
+sk
+dir
+
+sl
+dir
+
+sv
+dir
+
+th
+dir
+
+tr
+dir
+
+zh
+dir
+
+zh-tw
+dir
+

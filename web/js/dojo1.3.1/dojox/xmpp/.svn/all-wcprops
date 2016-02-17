@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/xmpp
+END
+sasl.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/xmpp/sasl.js
+END
+util.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/xmpp/util.js
+END
+xmppSession.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/xmpp/xmppSession.js
+END
+ChatService.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/xmpp/ChatService.js
+END
+TransportSession.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/xmpp/TransportSession.js
+END
+PresenceService.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/xmpp/PresenceService.js
+END
+RosterService.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/xmpp/RosterService.js
+END
+UserService.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/xmpp/UserService.js
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bangna/!svn/ver/20/bangnadental/web/js/dojo1.3.1/dojox/xmpp/README
+END

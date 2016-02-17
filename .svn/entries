@@ -1,0 +1,74 @@
+10
+
+dir
+307
+http://172.25.4.185:1588/svn/bangna/bangnadental
+http://172.25.4.185:1588/svn/bangna
+
+
+
+2011-07-25T03:26:10.734375Z
+135
+eploentham
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+538f8250-7416-fc40-9e44-127fca25052c
+
+build.xml
+file
+
+
+
+
+2011-09-17T01:58:16.000000Z
+fecb9ec70a31d3572f0a75f7b2fc0665
+2011-06-27T08:12:18.484375Z
+20
+ton
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3434
+
+nbproject
+dir
+
+src
+dir
+
+test
+dir
+
+web
+dir
+
